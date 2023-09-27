@@ -8,17 +8,72 @@
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/bootstrap-icons.css">
     <link rel="stylesheet" href="assets/css/app.css">
+    <link rel="stylesheet" href="assets/css/responsive.css">
 </head>
 <body>
 
 
-<h1>Content</h1>
+<h1>Code style</h1>
+<ul>
+    <li>Maintain format section->container->row->col</li>
+    <li>Preferably: max 5 classes per tag</li>
+    <li>Preferably: for mobile navigation use <a href="https://getbootstrap.com/docs/5.3/components/navbar/#offcanvas" target="_blank">bootstrap canvas</a></li>
+    <li>Preferably: use good naming instead of html comments</li>
+    <li>Preferably: all responsive code should be in file responsive.css</li>
+</ul>
+
+
+
+<!-- example of sections - do not use html comments this is for example :) -->
+<section class="topbar">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+
+            </div>
+        </div>
+    </div>
+</section>
+<section class="navigation">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="navigation-items">
+                    <div class="navigation-item"></div>
+                    <div class="navigation-item"></div>
+                    <div class="navigation-item"></div>
+                    <div class="navigation-item"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="mysection">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+
+            </div>
+        </div>
+    </div>
+</section>
+<section class="another-section">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+
+            </div>
+        </div>
+    </div>
+</section>
+
 
 
 
 
 
 <script src="assets/js/bootstrap.bundle.min.js"></script>
+<script src="assets/js/jquery.min.js"></script>
 <script src="assets/js/app.js"></script>
 </body>
 </html>

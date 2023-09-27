@@ -39,6 +39,38 @@ body {
 
 
 
+/*
+** Navigation (example)
+*/
+.navigation-items{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+
+/*
+** Banner (delimiter example)
+*/
+
+
+
+
+/*
+** My section (delimiter example)
+*/
+
+
+
+
+/*
+** Another my section (delimiter example)
+*/
+
+
+
+
 
 
 
