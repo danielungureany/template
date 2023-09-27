@@ -1,0 +1,73 @@
+/* General */
+@font-face {
+    font-family: "Onest Black";
+    src: url("../../assets/fonts/Onest/Onest-Black.ttf");
+}
+@font-face {
+    font-family: "Onest Bold";
+    src: url("../../assets/fonts/Onest/Onest-Bold.ttf");
+}
+@font-face {
+    font-family: "Onest ExtraBold";
+    src: url("../../assets/fonts/Onest/Onest-ExtraBold.ttf");
+}
+@font-face {
+    font-family: "Onest Light";
+    src: url("../../assets/fonts/Onest/Onest-Light.ttf");
+}
+@font-face {
+    font-family: "Onest Medium";
+    src: url("../../assets/fonts/Onest/Onest-Medium.ttf");
+}
+@font-face {
+    font-family: "Onest Regular";
+    src: url("../../assets/fonts/Onest/Onest-Regular.ttf");
+}
+@font-face {
+    font-family: "Onest Thin";
+    src: url("../../assets/fonts/Onest/Onest-Thin.ttf");
+}
+
+body {
+    font-family: "Onest Regular";
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
